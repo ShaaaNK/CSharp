@@ -18,4 +18,4 @@ Console.WriteLine($"Average = {average}");
 // Task № 5
 Console.WriteLine("Enter your name");
 var name = Console.ReadLine();
-Console.WriteLine($"Hi {name}");
+Console.WriteLine($"Hi {name}"); 
