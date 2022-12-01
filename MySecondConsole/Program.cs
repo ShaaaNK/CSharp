@@ -19,3 +19,4 @@ Console.WriteLine($"Average = {average}");
 Console.WriteLine("Enter your name");
 var name = Console.ReadLine();
 Console.WriteLine($"Hi {name}");
+if(firstNumber > secondNumber & thirdNumber < secondNumber){}
