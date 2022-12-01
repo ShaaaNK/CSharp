@@ -8,11 +8,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork3", "HomeWork3", "{A7183C1A-C4EA-4186-AE04-D8D531AEE095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Task_1\Task_1.csproj", "{A2D08801-FD6B-49A7-930A-65F75D6D5BAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork3_Task_1", "HomeWork3_Task_1\HomeWork3_Task_1.csproj", "{A2D08801-FD6B-49A7-930A-65F75D6D5BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{93569E39-40FB-4C85-B18B-0C2EC6904148}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork3_Task_2", "HomeWork3_Task_2\HomeWork3_Task_2.csproj", "{93569E39-40FB-4C85-B18B-0C2EC6904148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Task_3\Task_3.csproj", "{735A8047-54B1-41E3-8311-37AE89019F95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork3_Task_3", "HomeWork3_Task_3\HomeWork3_Task_3.csproj", "{735A8047-54B1-41E3-8311-37AE89019F95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
