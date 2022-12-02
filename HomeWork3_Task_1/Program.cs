@@ -12,15 +12,15 @@ void CheckNumber()
    {
        Console.WriteLine("Your number part of interval from 0 to 30");
    }
-   if (CheckInterval.Check(userNumber) == 2)
+   else if (CheckInterval.Check(userNumber) == 2)
    {
        Console.WriteLine("Your number part of interval from 31 to 60");
    }
-   if (CheckInterval.Check(userNumber) == 3)
+   else if (CheckInterval.Check(userNumber) == 3)
    {
        Console.WriteLine("Your number part of interval from 61 to 100");
    }
-   if (CheckInterval.Check(userNumber) == 4)
+   else if (CheckInterval.Check(userNumber) == 4)
    {
        Console.WriteLine("I dont now your number ");
    }
